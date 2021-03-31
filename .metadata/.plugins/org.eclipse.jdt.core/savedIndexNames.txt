@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+/media/sumit/Self Study/Programming/Java Programming/.metadata/.plugins/org.eclipse.jdt.core
+3572051199.index
+646308851.index
+3417243828.index
+2460683153.index
+3193546935.index
+3492029291.index
