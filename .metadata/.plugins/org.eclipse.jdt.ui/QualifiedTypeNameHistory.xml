@@ -2,12 +2,9 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
     <fullyQualifiedTypeName name="com.sun.jmx.mbeanserver.Util"/>
-    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
     <fullyQualifiedTypeName name="com.sun.tools.javac.util.StringUtils"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="sun.security.x509.AVA"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="org.graalvm.compiler.lir.amd64.vector.AMD64VectorMove.SaveRegistersOp"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.runtime.solaris_amd64.SolarisAMD64JavaThreadPDAccess"/>
     <fullyQualifiedTypeName name="Basic.Car"/>
@@ -18,8 +15,19 @@
     <fullyQualifiedTypeName name="Code.Divisible"/>
     <fullyQualifiedTypeName name="org.graalvm.compiler.nodes.graphbuilderconf.InvocationPlugins.InvocationPluginReceiver"/>
     <fullyQualifiedTypeName name="sun.security.util.UntrustedCertificates"/>
-    <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="javax.sound.midi.Soundbank"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.lir.StandardOp.ImplicitNullCheck"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.runtime.StaticBaseConstructor"/>
+    <fullyQualifiedTypeName name="encapsulation.Student"/>
+    <fullyQualifiedTypeName name="com.sun.tools.sjavac.comp.dependencies.PublicApiCollector"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.sun.tools.classfile.StackMapTable_attribute.chop_frame"/>
+    <fullyQualifiedTypeName name="staticIdetefication.A.B"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="inheritance.Teacher"/>
+    <fullyQualifiedTypeName name="inheritance.Singer"/>
 </qualifiedTypeNameHistroy>
